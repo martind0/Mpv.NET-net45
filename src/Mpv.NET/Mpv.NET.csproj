@@ -1,7 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net45</TargetFramework>
+    <Version>1.1.1</Version>
+    <PackageId>Mpv.NET-net45</PackageId>
+    <RepositoryUrl>https://github.com/martind0/Mpv.NET-net45</RepositoryUrl>
+    <Authors>Aurel Hudec Jr, Mpv.NET contributors, martind0</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Company>martind0</Company>
+    <PackageProjectUrl>https://github.com/martind0/Mpv.NET-net45</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
